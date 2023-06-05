@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SethDe1
-- 👀 I’m interested in back end software development
-- 🌱 I’m currently learning Java, JavaScript, and Python
-- 💞️ I’m looking to collaborate on any entry level python project to help me get comfortable with the language
+- 👀 I’m interested in being a full stack software developer.
+- 🌱 I’m currently learning React.js React Native and CSS.
+- 💞️ I’m looking to collaborate on any machine learning projects using python comfortable with the concepts.
 - 📫 How to reach me sethdecodes@gmail.com
 
 <!---
